@@ -5,10 +5,12 @@ public class GitTest {
         System.out.println("hello,git");
         System.out.println("用力");
         System.out.println("舒服");
+        //呵呵
     }
     public static void print(){
         int i=10;
         int b=3;
         System.out.println("呵呵");
+        int c=i+b;
     }
 }
