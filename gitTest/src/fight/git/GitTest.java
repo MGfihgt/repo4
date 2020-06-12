@@ -7,6 +7,8 @@ public class GitTest {
         System.out.println("舒服");
     }
     public static void print(){
+        int i=10;
+        int b=3;
         System.out.println("呵呵");
     }
 }
