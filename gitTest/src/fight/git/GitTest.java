@@ -6,4 +6,7 @@ public class GitTest {
         System.out.println("用力");
         System.out.println("舒服");
     }
+    public static void print(){
+        System.out.println("呵呵");
+    }
 }
